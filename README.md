@@ -23,7 +23,7 @@ reported as warnings on stderr and skipped.
 ## Installation
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/l1obyanc/diskdedupe.git
 cd diskdedupe
 python -m pip install .
 ```
